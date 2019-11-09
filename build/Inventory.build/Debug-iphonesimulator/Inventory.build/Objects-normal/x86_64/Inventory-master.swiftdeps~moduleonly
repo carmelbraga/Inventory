@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "9a7cd9a5295b57e6afd38bb965ef6cf3"
+build_time: [1573277574, 870116000]
+inputs:
+  "/Users/carmelbraga/Desktop/Inventory/Inventory/AppDelegate.swift": [1573274144, 239258408]
+  "/Users/carmelbraga/Desktop/Inventory/Inventory/Iventory.swift": [1573276050, 27301214]
+  "/Users/carmelbraga/Desktop/Inventory/Inventory/InventoryViewController.swift": [1573277413, 126424235]
+  "/Users/carmelbraga/Desktop/Inventory/Inventory/SceneDelegate.swift": [1573274144, 249053123]
